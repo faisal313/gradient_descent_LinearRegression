@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np # numpy is for math operations
 
 def step_gradient(b_current, m_current, points, learningRate):
     # starting points for our gradient
